@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+passlib
+python-jose
+python-multipart
+PyPDF2
+sentence-transformers
+faiss-cpu
+langchain-text-splitters
